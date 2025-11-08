@@ -1,0 +1,11 @@
+# Database data (โฟลเดอร์ที่เกิดปัญหา)
+mongo-data/
+
+# Environment file (ไฟล์เก็บรหัสผ่าน - ห้ามเข้า Git เด็ดขาด)
+.env
+
+# Log files
+build.log
+
+# Node.js dependencies (ควรจะอยู่ใน .gitignore เสมอ)
+node_modules/
